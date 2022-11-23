@@ -12,3 +12,4 @@ gem "mini_magick"
 gem "sass"
 gem "sprockets", "~> 3.7"
 gem "uglifier"
+gem 'jekyll-assets', '~> 2.3.2'
